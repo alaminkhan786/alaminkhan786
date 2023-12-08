@@ -25,4 +25,3 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JS / PYTHON
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminkhan786&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alaminkhan786)  
-
