@@ -1,4 +1,4 @@
-![I am a tiny WEB Developer]([https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/406885858_232667716514262_7267733552118087039_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeF_BWCb85AwRfhqURej8pQ-TesI-2f8O-pN6wj7Z_w76rPSm2K95lnQCYI3OE41IH9dZviO7LCZipOVpyZZWZuP&_nc_ohc=kvw_rqSddF0AX8c3YlB&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfCpH0pucTGpo2aeHflNdLqxuMiTWOCIN-wGZXlxvDXqEg&oe=656F6DD1](https://media.licdn.com/dms/image/D5622AQFm6sktFSbNEA/feedshare-shrink_800/0/1702016211441?e=1704931200&v=beta&t=15Gjsln2RV-Im7D28D-BWRB7xARisGX0Z3IXDuly344))
+![I am a tiny WEB Developer](https://media.licdn.com/dms/image/D5622AQFm6sktFSbNEA/feedshare-shrink_800/0/1702016211441?e=1704931200&v=beta&t=15Gjsln2RV-Im7D28D-BWRB7xARisGX0Z3IXDuly344)
 
 ## Hi there 👋, 
 ### My name is Al Amin Khan
