@@ -1,4 +1,4 @@
-<img src="https://neoblogfromusa.blogspot.com/2024/01/Github%20Cover%20Photo.html" width="100%" />
+<img src="https://www.instagram.com/p/C2NoB34S9-0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" width="100%" />
 <h1 align="center">Hi 👋, I'm Al-Amin Khan</h1>
 <h3 align="center">Aspiring Front-End Developer with a passion for coding and rapid learning. Adaptable and quick to grasp new technologies. Elevating interpersonal skills and strategic thinking. Actively seeking remote opportunities (Full-Time or Intern) with a reputed company to apply and enhance my skills while contributing to real-world projects.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="alaminkhan786" /> </p>
