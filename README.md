@@ -3,8 +3,6 @@
 <h3 align="center">Aspiring Front-End Developer with a passion for coding and rapid learning. Adaptable and quick to grasp new technologies. Elevating interpersonal skills and strategic thinking. Actively seeking remote opportunities (full-time/intern) with a reputed company to apply and enhance my skills while contributing to real-world projects.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="alaminkhan786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminkhan786&theme=" alt="alaminkhan786" /></a> </p>
-
 - 🔭 I’m currently working on ** a new project.**
 - 👯 I’m looking to collaborate on ** Betterment of the community.**
 - 🌱 I’m currently learning Python, JavaScript, C, PHP, etc. **React.js, Node.js, Laravel, etc.**
