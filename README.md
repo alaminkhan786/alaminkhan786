@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ** a new project.**
 - 👯 I’m looking to collaborate on ** Betterment of the community.**
 - 🌱 I’m currently learning **Python, JavaScript, C, PHP, React.js, Node.js, Laravel, etc.**
-- 💬 Ask me about ** anything. 👽**
+- 💬 Ask me about ** anything 👽**
 - 📫 How to reach me ** Search on Google - "alaminkhan786" 😎**
 - 👨‍💻 All of my projects are available at **here**
 - 📝 I regularly write articles on **LinkedIn**
